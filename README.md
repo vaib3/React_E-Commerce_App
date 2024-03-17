@@ -2,7 +2,8 @@
 E-Commerce App where you check out following functionality
 (i) Navbar
      - visible cart item count
-     - visible relevant navi 
+     - visible relevant navi
+     
 (ii) All products page
      - visible list of products from the API 
      - Each product is a editable by clicking on the “pencil” button. 
@@ -12,6 +13,7 @@ E-Commerce App where you check out following functionality
       delete the product and show some sort of Alert/Notification
 Product detail page visible all the details of a product and we
 Give button to add a product to cart
+
 (iii) Cart page
       - Show all the items in the cart
        - Handle errors and success alerts etc.
